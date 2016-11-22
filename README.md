@@ -1,1 +1,1 @@
-# ai-child
+# AI-theme-child
